@@ -30,6 +30,7 @@ Of course it's not that simple. Learning itself is imbibed with a curve, repetit
 
 
 Digressing Note lol : Take squash for example. Can we teach people to play better squash with math? 
+
 I guess I would be more attracted to something if it had to do with the physical world, something dynamic, something I can see around me over reading a text. That's just a personal preference, I think. That's where multimodal MLLMs come in. They could lower the friction, for example, displaying 3D things, or making the difference between numbers visible, like 1 million versus 1 billion.
 
 
