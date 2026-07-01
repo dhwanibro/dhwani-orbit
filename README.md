@@ -84,7 +84,7 @@ Then open `http://localhost:8000` in your browser. Stop the server with `Ctrl+C`
    git add .
    git commit -m "initial site"
    git branch -M main
-   git remote add origin https://github.com/<your-username>/<repo-name>.git
+   git remote add origin https://github.com/dhwanibro/dhwani-orbit.git
    git push -u origin main
    ```
 3. On GitHub: go to your repo → **Settings** → **Pages** → under "Build and deployment",
